@@ -1,0 +1,26 @@
+
+{
+  "name": "jquery.draggable",
+  "version": "0.0.1",
+  "homepage": "https://github.com/reinos/jquery.draggable",
+  "authors": [
+    "Reinos <info@reinos.nl>"
+  ],
+  "description": "jQuery plugin to make elements draggable without jQuery UI. Usage: view source on http://jqueryui.com/draggable/",
+  "main": [
+    "dist/jquery.draggable.js"
+  ],
+  "keywords": [
+    "draggable",
+    "jquery.draggable",
+    "reinos"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
